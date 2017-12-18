@@ -1,0 +1,6 @@
+C:\Users\joifo\OneDrive\Documentos\GitHub\AdjacentPointsMinDistance\AdjacentPointsMinDistance\bin\Debug\AdjacentPointsMinDistance.exe.config
+C:\Users\joifo\OneDrive\Documentos\GitHub\AdjacentPointsMinDistance\AdjacentPointsMinDistance\obj\Debug\AdjacentPointsMinDistance.csprojResolveAssemblyReference.cache
+C:\Users\joifo\OneDrive\Documentos\GitHub\AdjacentPointsMinDistance\AdjacentPointsMinDistance\bin\Debug\AdjacentPointsMinDistance.exe
+C:\Users\joifo\OneDrive\Documentos\GitHub\AdjacentPointsMinDistance\AdjacentPointsMinDistance\bin\Debug\AdjacentPointsMinDistance.pdb
+C:\Users\joifo\OneDrive\Documentos\GitHub\AdjacentPointsMinDistance\AdjacentPointsMinDistance\obj\Debug\AdjacentPointsMinDistance.exe
+C:\Users\joifo\OneDrive\Documentos\GitHub\AdjacentPointsMinDistance\AdjacentPointsMinDistance\obj\Debug\AdjacentPointsMinDistance.pdb

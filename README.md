@@ -1,3 +1,5 @@
+# Teste 
+
 A non empty zero indexed array A consisting of N integers is given. 
 A pair of indices (P, Q), where 0 <= P < Q < N, is said to have 'adjacent values' 
 if no value in the array lies strictly between values A[P] and A[Q], 
